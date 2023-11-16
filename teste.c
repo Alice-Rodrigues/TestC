@@ -2,7 +2,7 @@
 #include <stdlib.h>
 #include <assert.h>
 
-int soma(int x, int y) {
+in soma(int x, int y) {
     return x + y;
 }
 
