@@ -2,8 +2,8 @@
 #include <stdlib.h>
 #include <assert.h>
 
-in soma(int x, int y) {
-    return x + y;
+int soma(int x, int y) {
+    return x + y + 1;
 }
 
 int main() {
