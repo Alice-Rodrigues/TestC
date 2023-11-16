@@ -3,7 +3,7 @@
 #include <assert.h>
 
 int soma(int x, int y) {
-    return x + y + 1;
+    return x + y;
 }
 
 int main() {
